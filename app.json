@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "artaro",
     "name": "ticket-booking",
     "slug": "ticket-booking",
     "version": "1.0.0",
